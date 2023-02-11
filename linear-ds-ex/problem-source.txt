@@ -1,0 +1,10 @@
+uva -> https://onlinejudge.org/
+
+A uva 665
+B uva 594
+C uva 855
+D uva 12541
+E uva 11933
+F uva 10172
+G uva 12100
+H uva 12207
