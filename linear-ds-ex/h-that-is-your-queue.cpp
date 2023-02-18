@@ -11,8 +11,6 @@ int main() {
     char v;
     int cases = 1;
 
-    
-
     while(scanf("%d %d",&p,&c),p){
         list<int> q;
 
@@ -36,3 +34,5 @@ int main() {
         }
     }
 }
+
+// 4 2 1 5 3

@@ -30,3 +30,4 @@ int main(void)
 		cout << "(Street: " << streetPoints[mitad] << ", Avenue: " << avenuePoints[mitad] << ")\n";
 	}
 }
+
